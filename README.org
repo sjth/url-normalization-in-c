@@ -1,2 +1,13 @@
-# Normalized URL
-Written in C++ by Chen Bin.
+* url-normalization-in-c, C library to [[http://http://en.wikipedia.org/wiki/URL_normalization][normalize URL]]
+There is only one public function clean_url(). You only need link with the files "cleanurl.h" and "cleanurl.c".
+
+I wrote them in purce C (but test program in writte in C++).
+
+Nothing fancy in code. Just simple pointer manipulation. This is a task assigned by an interviewer.
+
+The code in this project is dedicated to [[http://en.wikipedia.org/wiki/Public_Domain][public domain]].
+
+* How to build the code.
+GNU Makefile are already created.
+
+"premake4.lua" for [[http://industriousone.com/premake][premake]] is also provided. You can use it to produce project files of other platforms.
