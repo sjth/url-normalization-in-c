@@ -1,0 +1,4 @@
+http://www.google.com	google.com
+https://www.google.com.au:80	google.com.au
+HTTPS://www.www.THIS-IS.www.WRONG:80/%7EJoe%5EBloggs//this/../index.html;jsessionid=9a8237a7jf4987?z=&w=1&a=b#fragment	this-is.www.wrong/~joe%5ebloggs
+http://hello.world.com.au:8001/world/../hello/index.html	hello.world.com.au/hello
