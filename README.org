@@ -8,6 +8,6 @@ Nothing fancy in code. Just simple pointer manipulation. This is a task assigned
 The code in this project is dedicated to [[http://en.wikipedia.org/wiki/Public_Domain][public domain]].
 
 * How to build the code.
-GNU Makefile are already created.
+GNU Makefile is already created.
 
 "premake4.lua" for [[http://industriousone.com/premake][premake]] is also provided. You can use it to produce project files of other platforms.
